@@ -33,3 +33,7 @@ nav.stroke ul li a:hover:after {
 .header-nav-wrapper a::before {
     transition: all .5s;
 }
+
+.hero {
+    height: 600px;
+}
